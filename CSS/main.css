@@ -9,7 +9,7 @@ header {
 
 img.hdrimg {
   dispay: block;
-  width
+  width: inherit;
 }
 
 section {
