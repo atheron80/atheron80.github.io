@@ -45,7 +45,6 @@ h1 {
 
 nav {
   width: 100%;
-  background-color: #ffffff;
 }
 
 ul {
@@ -54,6 +53,10 @@ ul {
   padding: 0;
   width: 200px;
   background-color: #f1f1f1;
+}
+
+li {
+  float: left;
 }
 
 li a {
