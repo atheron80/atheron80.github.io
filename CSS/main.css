@@ -9,15 +9,20 @@ header {
 
 img.hdrimg {
   dispay: block;
-  height: 75px;
+  width
 }
 
 section {
-  height: 150px;
+  width: 100%;
 }
 
 img.sectimg {
   dispay: block;
   width: 30%;
   align: left;
+}
+
+article {
+  width: 70%;
+  align: right;
 }
