@@ -37,14 +37,14 @@ article {
   text-shadow: -2px -2px 2px #000000;
 }
 
-img.hdrimg {
+.hdrimg {
   postion: absolute;
   dispay: block;
   margin: 10px auto;
   width: 50%;
 }
 
-img.sectimg {
+.sectimg {
   postion: absolute;
   dispay: block;
   width: 30%;
