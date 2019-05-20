@@ -1,4 +1,23 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
+}
+
+header {
+   height: 100px;
+}
+
+img.hdrimg {
+  dispay: block;
+  height: 75px;
+}
+
+section {
+  height: 150px;
+}
+
+img.sectimg {
+  dispay: block;
+  width: 30%;
+  align: left;
 }
