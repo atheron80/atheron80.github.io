@@ -4,7 +4,7 @@ body {
 }
 
 header {
-   height: 100px;
+   width: 100%;
 }
 
 img.hdrimg {
@@ -13,16 +13,19 @@ img.hdrimg {
 }
 
 section {
+  postion: absolute;
   width: 100%;
 }
 
 img.sectimg {
+  postion: absolute;
   dispay: block;
   width: 30%;
   align: left;
 }
 
 article {
+  postion: absolute;
   width: 70%;
   align: right;
 }
