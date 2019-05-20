@@ -1,38 +1,51 @@
 body {
     margin: 60px auto;
     width: 80%;
+    background-color: #e0e0d1;
 }
 
 header {
    width: 100%;
+   background-color: #ccccb3;
+}
+
+img.hdrimg {
+  dispay: block;
+  margin: 10px auto;
+  width: 50%;
 }
 
 h1 {
   width: 50%;
   margin: 10px auto;
-}
-
-img.hdrimg {
-  dispay: block;
-  width: 50%;
-  margin: 10px auto;
-
+  font-size: 36pt;
+  text-align: center;
+  text-color: #ffffff;
+  text-shadow: -2px -2px 2px #000000;
 }
 
 section {
   postion: absolute;
   width: 100%;
+  background-color: #ccccb3;
+}
+
+h2 {
+  font-size: 20pt;
 }
 
 img.sectimg {
   postion: absolute;
   dispay: block;
   width: 30%;
-  align: left;
+  float: left;
 }
 
 article {
   postion: absolute;
   width: 70%;
-  align: right;
+  float: right;
+  font-size: 16pt;
+  text-color: #ffffff;
+  text-shadow: -2px -2px 2px #000000;
 }
