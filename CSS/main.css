@@ -9,12 +9,6 @@ header {
    background-color: #ccccb3;
 }
 
-img.hdrimg {
-  dispay: block;
-  margin: 10px auto;
-  width: 50%;
-}
-
 h1 {
   width: 50%;
   margin: 10px auto;
@@ -24,21 +18,14 @@ h1 {
   text-shadow: -2px -2px 2px #000000;
 }
 
-section {
-  postion: absolute;
-  width: 100%;
-  background-color: #ccccb3;
-}
-
 h2 {
   font-size: 20pt;
 }
 
-img.sectimg {
+section {
   postion: absolute;
-  dispay: block;
-  width: 30%;
-  float: left;
+  width: 100%;
+  background-color: #ccccb3;
 }
 
 article {
@@ -48,4 +35,18 @@ article {
   font-size: 16pt;
   text-color: #ffffff;
   text-shadow: -2px -2px 2px #000000;
+}
+
+img.hdrimg {
+  postion: absolute;
+  dispay: block;
+  margin: 10px auto;
+  width: 50%;
+}
+
+img.sectimg {
+  postion: absolute;
+  dispay: block;
+  width: 30%;
+  float: left;
 }
