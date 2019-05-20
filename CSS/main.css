@@ -10,7 +10,7 @@ header {
 }
 
 h1 {
-  width: 50%;
+  width: 100%;
   margin: 10px auto;
   font-size: 36pt;
   text-align: center;
@@ -19,7 +19,11 @@ h1 {
 }
 
 h2 {
+  width: 100%;
   font-size: 20pt;
+  text-align: center;
+  text-color: #ffffff;
+  text-shadow: -2px -2px 2px #000000;
 }
 
 section {
@@ -33,20 +37,19 @@ article {
   width: 70%;
   float: right;
   font-size: 16pt;
-  text-color: #ffffff;
-  text-shadow: -2px -2px 2px #000000;
 }
 
 .hdrimg {
-  postion: absolute;
   dispay: block;
   margin: 10px auto;
-  width: 50%;
+  width: 70%;
+  height: 100px;
 }
 
 .sectimg {
   postion: absolute;
   dispay: block;
   width: 30%;
+  height: 100px;
   float: left;
 }
