@@ -7,9 +7,16 @@ header {
    width: 100%;
 }
 
+h1 {
+  width: 50%;
+  margin: 10px auto;
+}
+
 img.hdrimg {
   dispay: block;
-  width: inherit;
+  width: 50%;
+  margin: 10px auto;
+
 }
 
 section {
