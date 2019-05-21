@@ -60,6 +60,7 @@ h2 {
   margin: 10px auto;
   border-bottom: 1px;
   border-color: #000000;
+  text-align: center;
 }
 
 ul {
@@ -68,10 +69,15 @@ ul {
   padding: 0;
   width: 200px;
   background-color: #ffffff;
+  text-align: center;
+}
+
+li{
+    display:inline;
 }
 
 li a {
-  display: block;
+  display: inline-inline-block;
   float: center;
   text-align: center;
   color: #000000;
