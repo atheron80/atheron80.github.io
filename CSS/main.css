@@ -3,6 +3,8 @@
 }
 
 body {
+  width: auto;
+  margin: auto;
   background-color: #f1f1f1;
   padding: 20px;
   font-family: Arial;
@@ -82,7 +84,8 @@ li a:hover {
   color: #ffffff;
 }
 footer {
-  postion: absolute;
   margin: 10px;
   width: 100%;
+  text-align: center;
+  text-decoration-color: blue;
 }
