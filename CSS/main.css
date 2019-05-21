@@ -58,9 +58,8 @@ h2 {
 .abtnav {
   width: 100%;
   margin: 10px auto;
-  border-bottom: 1px;
+  border-bottom: 10px;
   border-color: #000000;
-  text-align: center;
 }
 
 ul {
