@@ -58,8 +58,6 @@ h2 {
 .abtnav {
   width: 100%;
   margin: 10px auto;
-  border-bottom: 10px;
-  border-color: #000000;
 }
 
 ul {
@@ -78,9 +76,6 @@ li a {
   color: #000000;
   padding: 8px 16px;
   text-decoration: none;
-  border: 1px;
-  border-style: solid;
-  border-color: #f0f0f0;
 }
 
 li a:hover {
