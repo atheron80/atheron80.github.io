@@ -57,7 +57,7 @@ ul {
 
 li a {
   display: block;
-  float: left;
+  float: center;
   text-align: center;
   color: #000000;
   padding: 8px 16px;
